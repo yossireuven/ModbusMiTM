@@ -28,16 +28,9 @@ setup(
     packages=find_packages(exclude=('tests',)),
 
     install_requires=['numpy',
-                      'numpy',
-                      'numpy',
-                      'numpy',
-                      'numpy',
-                      'numpy',
-                      'numpy',
                       'scipy',
                       'scapy',
                       'PyYAML',
-                      'psutil',
                       'psutil',
                       'yacs'],
 
